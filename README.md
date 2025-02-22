@@ -1,8 +1,50 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pokeworld
 
-Currently, two official plugins are available:
+I've built a Pokemon site using React.js and TailwindCSS to bring back our childhood memories and relive the nostalgia!
+ 
+## Website Link : https://pokemon-sibu.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology Stack
+
+- **Frontend**: 
+  - HTML
+  - Tailwind CSS
+  - React
+ 
+
+ # Screenshots
+![Screenshot (1)](https://github.com/user-attachments/assets/e05bd506-7ec4-4809-a907-b8584350b391)
+![Screenshot (2)](https://github.com/user-attachments/assets/d4c11fd0-dec2-44ab-82d1-8b92de825deb)
+
+
+
+
+## Developer
+    * Sibu Chanda
+
+## Hi, I'm Sibu Chanda! 👋
+
+
+## 🚀 About Me
+I'm a MERN developer...
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+## 🛠 Skills
+* HTML , Tailwind CSS , JAVASCRIPT
+* React Js
+* NodeJs
+* ExpressJs
+* MongoDB
+* C++
+* C
+* Python
+
+## Feedback
+
+If you have any feedback, please reach out to me at sibuchanda457@gmail.com
+
