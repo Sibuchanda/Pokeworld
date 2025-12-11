@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  react-app: # This is the service name. We can give any name (ex. frontend, react, sibu etc)
+    build: .
+    ports:
+      - "8080:80"
+    restart: always
